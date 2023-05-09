@@ -40,16 +40,16 @@ I am also an open-source enthusiast.
 ---
 <br>
 
-<!-- ![Rushi's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=Kakadiya-Harshal&hide_border=true&theme=redical)
+<!-- ![Rushi's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=Rushi312&hide_border=true&theme=redical)
  -->
-<!--  <a href="https://github.com/Kakadiya-Harshal"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kakadiya-Harshal&custom_title=Harshal's%20Contribution%20Graph&theme=react-dark" /></a> -->
+<!--  <a href="https://github.com/Rushi312"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rushi312&custom_title=Rushi's%20Contribution%20Graph&theme=react-dark" /></a> -->
 
 <!-- Activity Graph -->
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Kakadiya-Harshal&theme=react-dark"> -->
-<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kakadiya-Harshal&area=true&hide_border=true&theme=github&bg_color=22272E) -->
-<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kakadiya-Harshal&theme=react-dark) -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Rushi312&theme=react-dark"> -->
+<!-- ![Rushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rushi312&area=true&hide_border=true&theme=github&bg_color=22272E) -->
+<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rushi312&theme=react-dark) -->
 
-[![Harshal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kakadiya-Harshal&theme=xcode)](https://github.com/Kakadiya-Harshal)
+[![Rushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rushi312&theme=xcode)](https://github.com/Rushi312)
 
 
 <!-- --- -->
