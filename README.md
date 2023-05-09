@@ -119,9 +119,9 @@ I am also an open-source enthusiast.
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kakadiya-Harshal&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kakadiya-Harshal&hide_border=true&theme=radical" />	
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kakadiya-Harshal" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rushi312&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi312&hide_border=true&theme=radical" />	
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi312" /> -->
 </p>
 
 <!-- --- -->
@@ -130,6 +130,6 @@ I am also an open-source enthusiast.
 
 <p align="center">
 
-   ![snake gif](https://github.com/Kakadiya-Harshal/Kakadiya-harshal/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/Rushi312/Rushi312/blob/output/github-contribution-grid-snake.gif)
 
 </p>
